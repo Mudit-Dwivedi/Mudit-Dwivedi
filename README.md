@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mudit-Dwivedi</h1>
 <h3 align="center">3rd Year Computer Science Engineering Student.</h3>
-<img align"right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudit-dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="mudit-dwivedi" /> </p>
+<img align="right" alt="coding" width="25%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mudit-dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="mudit-dwivedi" /> </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/mudit-dwivedi-7883491b8/**
 
