@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mudit-dwivedi-7883491b8/**
 
-- ⚡ Fun fact **I am happy😉**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
