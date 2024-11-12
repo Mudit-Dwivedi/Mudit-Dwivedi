@@ -1,5 +1,5 @@
 <img align="right" alt="coding" width="200%" src="https://user-images.githubusercontent.com/112899978/224544010-5508faa2-5b33-4fe5-b369-6ceaea3e6081.png"> 
-<h3 align="center">Final Year Computer Science Engineering Student.</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="coding" width="25%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudit-dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="mudit-dwivedi" /> </p>
 
