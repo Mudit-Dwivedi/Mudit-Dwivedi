@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="25%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudit-dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="mudit-dwivedi" /> </p>
 
-- 📫 How to reach me <a href="https://linkedin.com/in/mudit-dwivedi" target="_blank" 
+- 📫 How to reach me <a href="https://www.linkedin.com/in/mudit-dwivedi-7883491b8" target="_blank" 
    style="background-color: #0077b5; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none;">
   LinkedIn
 </a>
